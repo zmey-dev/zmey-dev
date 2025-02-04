@@ -1,5 +1,5 @@
 <h1 align="center">
-    Hi there, I'm Kooky! 
+    Hi there, I'm Zmey! 
     <img src="https://raw.githubusercontent.com/zmey-dev/zmey-dev/master/static/wave.gif" width="30px" height="30px">
 </h1>
 
