@@ -79,6 +79,3 @@
     alt="docker" width="40" height="40" /> </a>
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-
-<hr>
-<img src="https://github-profile-trophy.vercel.app/?username=zmey-dev" alt="zmey-dev" />
