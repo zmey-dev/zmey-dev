@@ -1,16 +1,3 @@
-<h1 align="center">
-    Hi there, I'm Zmey! 
-    <img src="https://raw.githubusercontent.com/zmey-dev/zmey-dev/master/static/wave.gif" width="30px" height="30px">
-</h1>
-
-<p align="center">
-    <a href="https://github.com/zmey-dev"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=2000&pause=1000&center=true&width=435&lines=Passionate+Software+Engineer;FullStack+Engineer;Blockchain+Developer" alt="Typing SVG" /></a>
-</p>
-
-<div align="center  ">
-    <img id="preview" src="https://komarev.com/ghpvc/?username=zmey-dev&color=grey">
-</div>
-
 <div align="center">
     
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzmey-dev&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)
